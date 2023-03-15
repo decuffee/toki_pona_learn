@@ -8,7 +8,7 @@ Learning app to teach Toki Pona using Universala Esperanto Metodo approach.
 
 ## Learning Method
 
-Teaching Toki Pona using the Universala Esperanto Metodo with words and pictures and no english translation.  
+Teaching Toki Pona using the Universala Esperanto Metodo with words, pictures, gifs, and videos. No english translations provided in order to have a direct immersion experience.  
 
 ## Development Stages
 
