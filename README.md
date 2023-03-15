@@ -1,22 +1,14 @@
-# toki_pona_learn_node
+# toki_pona_learn
 
-Toki Pona Learn Node
+Toki Pona Learn
 
 ## Purpose
 
-Learning app to teach Toki Pona using story.
+Learning app to teach Toki Pona using Universala Esperanto Metodo approach.
 
 ## Learning Method
 
-Teaching Toki Pona stories, starting with the simplist and shortest stories and ever increase the level of difficulty and length.
-
-Introduce new concepts using simple short story examples.
-
-So learning is done through figuring out context clues not word lists and translations.
-
-Testing is done with reading comprehension multiple choice questions, NO questions on word or phrase meanings.
-
-A dictionary model can be accessed to look up words and phrases
+Teaching Toki Pona using the Universala Esperanto Metodo with words and pictures and no english translation.  
 
 ## Development Stages
 
