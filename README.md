@@ -20,7 +20,7 @@ A dictionary model can be accessed to look up words and phrases
 
 ## Development Stages
 
-- Use ExpressJS and MySQL for Backend
+- Use PHP and MySQL for Backend
 - Web App
 - Use Ionic and Capacitor to Make a Mobile App
 - Use React Native to Make a Mobile App
